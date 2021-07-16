@@ -1,3 +1,4 @@
+![styled_image_output](https://user-images.githubusercontent.com/53509924/125946444-3d9fc578-d6a3-4760-8d57-923a90c8afd1.jpg)
 # Neural Style Transfer
 Implementation of Neurl style Transfer by Gatys with GUI
 ![Screenshot from 2021-07-16 17-42-02](https://user-images.githubusercontent.com/53509924/125945469-c25f6294-4c34-439e-a4de-c5742c06de79.png)
