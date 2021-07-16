@@ -15,3 +15,5 @@ Steps:
  generated image will save as output image and same will be displayed in GUI
 
 pytorch model implementation is used from https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
+![circuit](https://user-images.githubusercontent.com/53509924/125955533-8b20386e-2bb5-4ff9-85cd-ccf8d5f35b8f.jpeg)
+
