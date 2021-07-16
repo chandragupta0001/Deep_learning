@@ -13,3 +13,5 @@ Steps:
 8. optimization steps
 9. click generate image
  generated image will save as output image and same will be displayed in GUI
+
+pytorch model implementation is used from https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
